@@ -1,2 +1,19 @@
 # WhatsApp-Chat-Analysis
-Detailed analysis of your WhatsApp chats
+Every message you send on WhatsApp is a form of data.<br>
+In this project, I have analyzed this data.<br>
+You can get to know who spends the most on a WhatsApp group,<br>
+what time is the group most active, most used emoji, etc.<br>
+You can also get details with respect to a specific user.<br>
+
+For using this, go to your phone and export data of any group or personal chat. <br>
+<br><br>
+(I have attached few screenshots to guide you)
+![WhatsApp Image 2022-05-05 at 6 27 19 PM](https://user-images.githubusercontent.com/76225348/166927630-13886064-a41b-42ea-abaa-daa63bc9d9e9.jpeg)
+![WhatsApp Image 2022-05-05 at 6 27 19 PM (1)](https://user-images.githubusercontent.com/76225348/166927669-4e640ac2-c830-4382-9fb8-f8b8af28b8f3.jpeg)
+<br><br>
+Download that data, and upload in the site.<br>
+The site will automatically provide you a detailed analysis.<br>
+
+![WhatsApp Image 2022-05-05 at 6 31 06 PM](https://user-images.githubusercontent.com/76225348/166928243-ea716581-7718-4952-ad5b-5ce7193d4bed.jpeg)
+
+![WhatsApp Image 2022-05-05 at 6 32 03 PM](https://user-images.githubusercontent.com/76225348/166928370-eba8f688-cdf3-4d19-b9e0-c5b16a958137.jpeg)
