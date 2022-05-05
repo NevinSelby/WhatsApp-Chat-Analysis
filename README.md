@@ -12,7 +12,9 @@ For using this, go to your phone and export data of any group or personal chat. 
 (I have attached few screenshots to guide you)
 
 ![WhatsApp Image 2022-05-05 at 6 27 19 PM](https://user-images.githubusercontent.com/76225348/166927630-13886064-a41b-42ea-abaa-daa63bc9d9e9.jpeg)
+### Click on "More"
 ![WhatsApp Image 2022-05-05 at 6 27 19 PM (1)](https://user-images.githubusercontent.com/76225348/166927669-4e640ac2-c830-4382-9fb8-f8b8af28b8f3.jpeg)
+### Click on "Export Chat"
 
 <hr>
 <br>
