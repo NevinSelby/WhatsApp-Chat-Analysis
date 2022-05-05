@@ -6,11 +6,18 @@ what time is the group most active, most used emoji, etc.<br>
 You can also get details with respect to a specific user.<br>
 
 For using this, go to your phone and export data of any group or personal chat. <br>
-<br><br>
+<br>
+<hr>
+### Follow this to download your data
 (I have attached few screenshots to guide you)
+
 ![WhatsApp Image 2022-05-05 at 6 27 19 PM](https://user-images.githubusercontent.com/76225348/166927630-13886064-a41b-42ea-abaa-daa63bc9d9e9.jpeg)
 ![WhatsApp Image 2022-05-05 at 6 27 19 PM (1)](https://user-images.githubusercontent.com/76225348/166927669-4e640ac2-c830-4382-9fb8-f8b8af28b8f3.jpeg)
-<br><br>
+
+<hr>
+<br>
+
+### Download and Upload
 Download that data, and upload in the site.<br>
 The site will automatically provide you a detailed analysis.<br>
 
