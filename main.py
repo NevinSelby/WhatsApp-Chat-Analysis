@@ -56,7 +56,10 @@ if f is not None:
 
     user_list = df['User'].unique().tolist()
     user_list.sort()
-    user_list.remove('Group Update')
+    try:
+        user_list.remove('Group Update')
+    except:
+        pass
     user_list.insert(0,"Everyone")
 
 
