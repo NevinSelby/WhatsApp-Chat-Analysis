@@ -1,11 +1,11 @@
 # WhatsApp-Chat-Analysis
-Every message you send on WhatsApp is a form of data.<br>
+Every message you send on WhatsApp is a form of data. 
 In this project, I have analyzed this data, and displayed it in a visually understandable manner.<br>
-You can get to know who spends the most on a WhatsApp group,<br>
-what time is the group most active, most used emoji, etc.<br>
-You can also get details with respect to a specific user.<br>
+You can get to know who spends the most on a WhatsApp group,
+what time is the group most active, most used emoji, etc.
+You can also get details with respect to a specific user.
 
-For using this, go to your phone and export data of any group or personal chat. <br>
+For using this, make sure the time is in 24hr format, and go to your WhatsApp and export data of any group or personal chat. <br>
 <br>
 <br>
 ### Follow this to download your data <br>
