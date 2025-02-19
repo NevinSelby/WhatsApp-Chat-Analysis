@@ -4,9 +4,10 @@ import numpy as np
 import re
 import matplotlib.pyplot as plt
 import seaborn as sns
-import emoji
 from collections import Counter
 from urlextract import URLExtract
+import emoji
+
 extractor = URLExtract()
 
 
@@ -45,7 +46,31 @@ st.sidebar.title('WhatsApp Chat Analysis')
 
 f = st.sidebar.file_uploader('Choose a file')
 
-if f is not None:
+if f is None:
+    # Home Page Content
+    st.title("📊 WhatsApp Chat Analyzer")
+    st.markdown(
+        """
+        Welcome to the **WhatsApp Chat Analyzer**! 🚀  
+        This tool helps you **analyze WhatsApp conversations** by generating insights such as:
+        - **Total Messages & Words Sent**
+        - **Most Active Users**
+        - **Frequently Used Emojis**
+        - **Most Active Days & Hours**
+        - **Message Trends Over Time**
+        
+        ### 📂 How to Use:
+        1. **Export Chat from WhatsApp**  
+           - Open a chat in WhatsApp.  
+           - Click **More Options (⋮) > More > Export Chat**  
+           - Choose **Without Media** for better results.  
+        2. **Upload the exported `.txt` file** using the sidebar.  
+        3. **Analyze & Explore** the data visualizations! 📊
+
+        Upload a chat file to begin your analysis. 📁
+        """
+    )
+else:
     bytes_data = f.getvalue()
     data = bytes_data.decode('utf-8')
 
@@ -263,6 +288,3 @@ if f is not None:
         fig, ax = plt.subplots()
         ax = sns.heatmap(heatmap_df)
         st.pyplot(fig)
-
-
-
