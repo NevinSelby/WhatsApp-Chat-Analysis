@@ -23,6 +23,8 @@ For using this, make sure the time is in 24hr format, and go to your WhatsApp an
 Download that data, and upload in the site.<br>
 The site will automatically provide you a detailed analysis.<br>
 
+<img width="1395" alt="image" src="https://github.com/user-attachments/assets/9cda8cc9-5d71-4e19-ae1a-f8827033dd8e" />
+
 ![WhatsApp Image 2022-05-05 at 6 31 06 PM](https://user-images.githubusercontent.com/76225348/166928243-ea716581-7718-4952-ad5b-5ce7193d4bed.jpeg)
 
 ![WhatsApp Image 2022-05-05 at 6 32 03 PM](https://user-images.githubusercontent.com/76225348/166928370-eba8f688-cdf3-4d19-b9e0-c5b16a958137.jpeg)
